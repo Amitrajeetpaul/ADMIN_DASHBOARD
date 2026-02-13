@@ -113,20 +113,6 @@ npm run production  # Builds optimized assets in dist/
 
 For detailed security guidelines, authentication requirements, and best practices, see [SECURITY.md](SECURITY.md).
 
-## Sponsorship
-
-Support AdminLTE development by becoming a sponsor or donor.
-
-<p align="center">
-  <a href="https://github.com/sponsors/danny007in">
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor on GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.paypal.me/daniel007in">
-    <img src="https://img.shields.io/static/v1?label=Donate&message=%E2%9D%A4&logo=PayPal&color=%2300457C" alt="Donate via PayPal" />
-  </a>
-</p>
-
 
 
 - First thing first, you should have bit knowledge about NodeJS.
